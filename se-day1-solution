@@ -18,3 +18,18 @@ Description: Object-Oriented Programming (OOP) introduced a new paradigm for sof
 Description: Traditional software development methodologies like Waterfall were often rigid and struggled to adapt to changing requirements. The Agile Manifesto, introduced in 2001, promoted a new approach emphasizing flexibility, collaboration, and iterative development. Agile methodologies, such as Scrum and Kanban, have since become the standard for many software development teams, enabling them to respond quickly to change and deliver value more efficiently.
 
 #Phases of Software development cycles
+The Software Development Life Cycle (SDLC) is a process used by software engineers and developers to design, develop, test, and deploy software applications. It is typically divided into several phases, each serving a specific purpose in the development process. The common phases of the SDLC are:
+
+1. Requirement Analysis
+Explanation: In this initial phase, the project's requirements are gathered and analyzed. Stakeholders, including customers and end-users, are consulted to understand what the software needs to accomplish. This phase results in a detailed requirement specification document that guides the subsequent phases.
+2. System Design
+Explanation: Based on the requirements, the system design phase involves creating the architecture of the software. This includes defining the overall system architecture, data flow, database design, and user interfaces. This phase results in design documents and blueprints that serve as a roadmap for development.
+3. Implementation (Coding)
+Explanation: During the implementation phase, the actual code is written according to the design specifications. Developers create the software by coding each module or component. This is often the longest phase of the SDLC and involves various programming languages, tools, and environments.
+4. Testing
+Explanation: After coding, the software undergoes rigorous testing to identify and fix any defects or issues. This phase includes unit testing, integration testing, system testing, and user acceptance testing. The goal is to ensure that the software functions correctly and meets the specified requirements.
+5. Deployment
+Explanation: Once the software has been thoroughly tested and is deemed ready, it is deployed to a production environment where end-users can access and use it. This phase may involve setting up servers, installing the software, and ensuring all components are correctly configured.
+6. Maintenance
+Explanation: After deployment, the software enters the maintenance phase, where it is monitored for any bugs or issues that arise during real-world use. Maintenance also involves updating the software to accommodate changes in requirements, fix bugs, or improve performance. This phase continues as long as the software is in use.
+Each phase of the SDLC is crucial for ensuring that the final product is of high quality, meets user needs, and is delivered on time and within budget.
